@@ -1,0 +1,50 @@
+INVESTIGADOR;DOCENTE;Manuel Sousa;@manuelsousa;1;Inteligencia artificial
+INVESTIGADOR;DOCENTE;Isabel Pereira;@isabelpereira;2;Analise 5
+INVESTIGADOR;DOCENTE;Sousa Vieira;@sousavieira;3;Fisica Quantica
+INVESTIGADOR;DOCENTE;Joao Martin;@joaomartin;4;Redes e companhia
+INVESTIGADOR;DOCENTE;Luisa Bastos;@luisabastos;5;Computacao de alto nivel
+INVESTIGADOR;DOCENTE;Marta Rodrigues;@martarodrigues;6;Desenvolvimento de algoritmos complexos
+INVESTIGADOR;BOLSEIRO;LICENCIADO;Pedro vieira;@pedrovieira;09/04/2019;20/12/2019;Manuel Sousa
+INVESTIGADOR;BOLSEIRO;LICENCIADO;Hugo Sousa;@hugosousa;04/02/2019;20/08/2019;Isabel Pereira
+INVESTIGADOR;BOLSEIRO;MESTRE;Renato Oliveira;@renatooliveira;02/01/2019;30/12/2019;Manuel Sousa
+INVESTIGADOR;BOLSEIRO;MESTRE;Diogo Vicente;@diogovicente;12/02/2019;30/11/2019;Isabel Pereira
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Lucas Bastos;@lucasbastos;01/02/2019;21/12/2019
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Tiago Dinis;@tiagodinis;05/06/2019;07/10/2019
+TAREFA;DESIGN;Design1;02/01/2019;29/12/2019;0;Manuel Sousa;0
+TAREFA;DESENVOLVIMENTO;Desenvolvimento1;02/01/2019;29/12/2019;0;Luisa Bastos;0
+TAREFA;DOCUMENTACAO;Documentacao1;02/01/2019;29/01/2019;99;Lucas Bastos;0
+TAREFA;DESIGN;Design2;02/01/2019;29/12/2019;50;Sousa Vieira;45
+TAREFA;DESENVOLVIMENTO;Desenvolvimento2;02/01/2019;29/12/2019;0;Isabel Pereira;0
+TAREFA;DOCUMENTACAO;Documentacao2;02/01/2019;29/12/2019;0;Pedro vieira;45
+TAREFA;DESIGN;Design3;02/04/2019;02/05/2019;99;Joao Martin;30
+TAREFA;DESENVOLVIMENTO;Desenvolvimento3;02/01/2019;29/12/2019;89;Marta Rodrigues;80
+TAREFA;DOCUMENTACAO;Documentacao3;02/01/2019;29/12/2019;99;Renato Oliveira;30
+TAREFA;DESIGN;Design4;08/01/2019;29/12/2019;76;Tiago Dinis;99
+TAREFA;DESENVOLVIMENTO;Desenvolvimento4;02/04/2019;06/04/2019;0;Diogo Vicente;0
+TAREFA;DOCUMENTACAO;Documentacao5;02/01/2019;29/12/2019;0;;0
+TAREFA;DESIGN;Design5;05/01/2019;30/5/2019;0;;0
+TAREFA;DESENVOLVIMENTO;Desenvolvimento5;19/12/2019;29/12/2019;0;;0
+TAREFA;DOCUMENTACAO;Documentacao6;02/06/2019;20/06/2019;0;;0
+PROJECTO;Projecto1;P1;01/01/2019;31/12/2019;Manuel Sousa;Luisa Bastos;Pedro vieira;Renato Oliveira;Design1;Desenvolvimento1;Documentacao2;Documentacao3;7
+PROJECTO;Projecto2;P2;01/01/2019;31/12/2019;Isabel Pereira;Sousa Vieira;Hugo Sousa;Diogo Vicente;Design2;Desenvolvimento2;Desenvolvimento4;Documentacao4;9
+PROJECTO;Projecto3;P3;01/01/2019;31/12/2019;Joao Martin;Marta Rodrigues;Tiago Dinis;Lucas Bastos;Design3;Design4;Desenvolvimento3;Documentacao1;7
+INVESTIGADOR;DOCENTE;Joao Pires;@joaopires;7;Inteligencia artificial
+INVESTIGADOR;DOCENTE;Antonio Costa;@antoniocosta;8;Estatistica
+INVESTIGADOR;DOCENTE;Marcelo Santos;@marcelosantos;9;Fisica Moderna
+INVESTIGADOR;DOCENTE;Jesus Jorge;@jesusjorge;10;Design Grafico
+INVESTIGADOR;DOCENTE;Fernando Torres;@fernandotorres;11;Computacao de alto nivel
+INVESTIGADOR;DOCENTE;Mario Soares;@mariosoares;12;Desenvolvimento de algoritmos complexos
+INVESTIGADOR;DOCENTE;Helena Dias;@helenadias;13;Inteligencia artificial
+INVESTIGADOR;DOCENTE;Estela Rebelo;@estelarebelo;14;Fisica Moderna
+INVESTIGADOR;DOCENTE;Maria Clara;@mariaclara;15;Analise 5
+INVESTIGADOR;DOCENTE;Jorge Alvim;@jorgealvim;16;Computacao de alto nivel
+INVESTIGADOR;BOLSEIRO;LICENCIADO;Salgueiro Maia;@salgueiromaia;03/04/2019;23/10/2019;null
+INVESTIGADOR;BOLSEIRO;LICENCIADO;Mario Centeno;@mariocenteno;05/01/2019;28/09/2019;null
+INVESTIGADOR;BOLSEIRO;MESTRE;Antonio Mateus;@antoniomateus;12/05/2019;15/07/2019;null
+INVESTIGADOR;BOLSEIRO;MESTRE;Joaquim Ferreira;@joaquimferreira;03/06/2019;10/10/2019;null
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Tomas Sousa;@tomassousa;01/05/2019;10/11/2019
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Ana Soares;@anasoares;02/02/2019;09/09/2019
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Rita Melo;@ritamelo;02/05/2019;19/08/2019
+INVESTIGADOR;BOLSEIRO;DOUTORADO;Catarina Dias;@Catarina Dias;01/03/2019;20/12/2019
+INVESTIGADOR;BOLSEIRO;LICENCIADO;Eurico Corvacho;@euricocorvacho;05/01/2019;28/09/2019;null
+INVESTIGADOR;BOLSEIRO;MESTRE;Adelino Coelho;@adelinocoelho;12/05/2019;15/07/2019;null
